@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "gambinovisual1",
+            "request": "launch",
+            "mainClass": "ie.tudublin.gambinovisual1",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Main",
             "request": "launch",
             "mainClass": "ie.tudublin.Main",
